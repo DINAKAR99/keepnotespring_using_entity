@@ -1,0 +1,8 @@
+keepnotespring\dao\NoteDAO.class
+keepnotespring\config\WebAppInitializer.class
+keepnotespring\repositories\NoteRepository.class
+keepnotespring\config\ApplicationContextConfig.class
+keepnotespring\config\WebMvcConfig.class
+keepnotespring\model\Note.class
+keepnotespring\dao\NoteDAOImpl.class
+keepnotespring\controllers\NoteController.class
